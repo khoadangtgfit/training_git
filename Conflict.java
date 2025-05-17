@@ -1,5 +1,5 @@
 public class Conflict {
     public void print(){
-        System.out.println("conflict main1");
+        System.out.println("conflict main12");
     }
 }
